@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Bulb_OnOff/static/css/main.073c9b0a.css",
+    "main.js": "/React_Bulb_OnOff/static/js/main.78f74318.js",
+    "index.html": "/React_Bulb_OnOff/index.html",
+    "main.073c9b0a.css.map": "/React_Bulb_OnOff/static/css/main.073c9b0a.css.map",
+    "main.78f74318.js.map": "/React_Bulb_OnOff/static/js/main.78f74318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.78f74318.js"
+  ]
+}
